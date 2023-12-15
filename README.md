@@ -1,16 +1,20 @@
 # nostalicious_web
 
-A new Flutter project.
+Initial prototype for nostalicious website
 
-## Getting Started
+## Main screen
+![image](https://github.com/noobprograms/Nostalicious_web/assets/78657816/387a7e83-b0c6-4a2a-8314-a472dbd00f7d)
+## Creating Your own dish
+This screen is used for setting up everything along with the date of delivery
+![image](https://github.com/noobprograms/Nostalicious_web/assets/78657816/502091cc-35a3-409c-bed0-35cb7b2c835c)
+## Use existing screen
+![image](https://github.com/noobprograms/Nostalicious_web/assets/78657816/166fef5d-3315-47c1-b010-8565fb5a1192)
+![image](https://github.com/noobprograms/Nostalicious_web/assets/78657816/34048814-5376-49bb-8b0a-1c382ab11a50)
+## Payment screen
+![image](https://github.com/noobprograms/Nostalicious_web/assets/78657816/e64cdee4-1b81-47cc-93b3-237fd6aa6ca1)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
